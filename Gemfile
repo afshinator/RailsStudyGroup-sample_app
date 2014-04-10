@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.4'        # tutorial references 4.0.4
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '2.11.0'
+gem 'bcrypt-ruby', '3.1.2'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
@@ -24,6 +25,7 @@ gem 'coffee-rails', '~> 4.0.0'# different version than tutorial
 gem 'jquery-rails'            # different version than tutorial
 gem 'turbolinks'              # different version than tutorial
 gem 'jbuilder', '~> 1.2'      # different version than tutorial
+
 
 group :doc do
   gem 'sdoc', require: false  # different version than tutorial
