@@ -8,3 +8,6 @@ A work-in-progress as we follow along in the online book and make our modificati
 
 So far at week 3, we're just in [chpts 3 & 4 in the tutorial](http://ruby.railstutorial.org/chapters/static-pages#top)
 
+### Week 6: 
+
+- Added Spring gem 
