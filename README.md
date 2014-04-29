@@ -2,7 +2,7 @@
 
 ### for the Odin Project Rails Study Group
 
-A work-in-progress as we follow along in the online book and make our modifications
+A work-in-progress as we follow along in the online book and make our modifications.
 
 ---
 
